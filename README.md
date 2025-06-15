@@ -9,6 +9,8 @@ Studying Computer Science and becoming a Full stack developer...
   <img align="center" alt="Node.js" height="30" width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"">
   <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SQL Developer" height="30" width="40" title="SQL Developer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img align="center" alt="PL\SQL" height="50" width="60" title="PL\SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 </div>
 
 #
