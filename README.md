@@ -2,6 +2,7 @@
 Studying Computer Science and becoming a Software developer...
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elviomarcos1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elviomarcos1&theme=dark&hide_progress=true&layout=compact)
 <div>
   <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
