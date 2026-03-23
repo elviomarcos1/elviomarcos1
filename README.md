@@ -1,5 +1,5 @@
 ### Hi there, I'm Marcos 👨🏻‍🎓
-Studying Computer Science and becoming a Software developer...
+Studying Computer Science and working as a Software Developer...
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elviomarcos1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
