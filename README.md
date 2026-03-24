@@ -1,9 +1,12 @@
 ### Hi there, I'm Marcos 👨🏻‍🎓
 Studying Computer Science and working as a Software Developer...
 #
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elviomarcos1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elviomarcos1&theme=dark&hide_progress=true&layout=compact)
+
+</div>
 <div>
   <img align="center" alt="C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt=".NET" height="30" width="40" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />         
