@@ -25,6 +25,6 @@ Studying Computer Science and working as a Software Developer...
 
 #
 <div> 
-    <a href="https://www.linkedin.com/in/elviomarcos1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge" target="_blank"></a> 
-  <a href = "mailto:elviomarcosfj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge" target="_blank"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/elviomarcos1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-           LinkedIn-%230077B5?style=for-the-badge" target="_blank"></a> 
+    <a target="_blank" href = "mailto:elviomarcosfj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge"></a>
 </div>
